@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="config.xsd">
+    <Network>
+        <UdpIpMavlinkMasterDrone>192.168.18.231</UdpIpMavlinkMasterDrone>
+    </Network>
+    <Ports>
+        <PortRecMavlinkMasterDrone>14552</PortRecMavlinkMasterDrone>
+        <PortSendMavlinkMasterDrone>14552</PortSendMavlinkMasterDrone>
+    </Ports>
+</Configuration>

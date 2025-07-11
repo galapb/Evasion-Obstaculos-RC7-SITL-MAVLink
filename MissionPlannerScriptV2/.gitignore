@@ -1,0 +1,49 @@
+# Archivos de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Entorno Virtual
+MissionPlannerScriptV2/.venv/
+venv/
+
+# Configuración de IDEs
+.idea/
+.vscode/
+
+# Archivos de dependencias
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Configuración de entorno
+.env
+.envrc
+*.env
+*.venv
+
+# Archivos de compilación y distribución
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+*.db
+
+# Archivos de prueba y cobertura
+.coverage
+.tox/
+nosetests.xml
+pytest_cache/
+junit.xml
+
+# Configuración de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
